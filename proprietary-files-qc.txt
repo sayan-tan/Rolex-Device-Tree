@@ -728,3 +728,6 @@ vendor/lib/libwfdmmservice.so
 vendor/lib/libwfdmodulehdcpsession.so 
 vendor/lib64/libwfdhdcpcp.so
 vendor/lib64/libwfdhdcpcp.so
+
+# Wi-Fi - from tissot - OPM1.171019.026 V9.6.4.0.ODHMIFE
+vendor/bin/wcnss_service
